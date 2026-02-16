@@ -1,0 +1,19 @@
+You extract structured inspection observations.
+
+Rules:
+- DO NOT invent facts
+- Only use provided text
+- If missing info → "Not Available"
+
+Return JSON list:
+
+[
+  {
+    "area": "",
+    "issue": "",
+    "evidence": "",
+    "severity_hint": ""
+  }
+]
+
+Inspection Text:

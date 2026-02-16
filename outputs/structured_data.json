@@ -1,0 +1,292 @@
+[
+  {
+    "area": "Not Available",
+    "inspection_issue": "Hall Skirting level Dampness",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Hall Skirting level Dampness",
+    "severity_level": "High",
+    "confidence_score": 0.8,
+    "reasoning_note": "Moisture-related issue, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Dampness",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Dampness",
+    "severity_level": "High",
+    "confidence_score": 0.8,
+    "reasoning_note": "Moisture-related issue, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Dampness",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Dampness",
+    "severity_level": "High",
+    "confidence_score": 0.8,
+    "reasoning_note": "Moisture-related issue, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Dampness",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Dampness",
+    "severity_level": "High",
+    "confidence_score": 0.8,
+    "reasoning_note": "Moisture-related issue, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "External wall crack and Duct",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "External wall crack and Duct",
+    "severity_level": "High",
+    "confidence_score": 0.9,
+    "reasoning_note": "Structural keyword detected, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Dampness",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Dampness",
+    "severity_level": "High",
+    "confidence_score": 0.8,
+    "reasoning_note": "Moisture-related issue, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "outlet Leakage",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "outlet Leakage",
+    "severity_level": "High",
+    "confidence_score": 0.9,
+    "reasoning_note": "Structural keyword detected, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Condition of leakage at adjacent walls",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Condition of leakage at adjacent walls",
+    "severity_level": "High",
+    "confidence_score": 0.9,
+    "reasoning_note": "Structural keyword detected, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Condition of leakage below WC",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Condition of leakage below WC",
+    "severity_level": "High",
+    "confidence_score": 0.9,
+    "reasoning_note": "Structural keyword detected, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Leakage during:",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Leakage during:",
+    "severity_level": "High",
+    "confidence_score": 0.9,
+    "reasoning_note": "Structural keyword detected, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Leakage due to concealed plumbing",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Leakage due to concealed plumbing",
+    "severity_level": "High",
+    "confidence_score": 0.9,
+    "reasoning_note": "Structural keyword detected, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Leakage due to damage in Nahani trap/Brickbat coba under",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Leakage due to damage in Nahani trap/Brickbat coba under",
+    "severity_level": "High",
+    "confidence_score": 0.9,
+    "reasoning_note": "Structural keyword detected, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Condition of leakage at interior side",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Condition of leakage at interior side",
+    "severity_level": "High",
+    "confidence_score": 0.9,
+    "reasoning_note": "Structural keyword detected, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Leakage during:",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Leakage during:",
+    "severity_level": "High",
+    "confidence_score": 0.9,
+    "reasoning_note": "Structural keyword detected, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Leakage due to concealed plumbing",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Leakage due to concealed plumbing",
+    "severity_level": "High",
+    "confidence_score": 0.9,
+    "reasoning_note": "Structural keyword detected, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Internal WC/Bath/Balcony leakage observed",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Internal WC/Bath/Balcony leakage observed",
+    "severity_level": "High",
+    "confidence_score": 0.9,
+    "reasoning_note": "Structural keyword detected, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Condition of cracks observed on RCC Column and Beam",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Condition of cracks observed on RCC Column and Beam",
+    "severity_level": "High",
+    "confidence_score": 0.9,
+    "reasoning_note": "Structural keyword detected, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Are there any major or minor cracks observed over external",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Are there any major or minor cracks observed over external",
+    "severity_level": "High",
+    "confidence_score": 0.9,
+    "reasoning_note": "Structural keyword detected, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Are the external plumbing pipes cracked and leaked? If yes its",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Are the external plumbing pipes cracked and leaked? If yes its",
+    "severity_level": "High",
+    "confidence_score": 0.9,
+    "reasoning_note": "Structural keyword detected, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Condition of separation cracks observed at beam-column",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Condition of separation cracks observed at beam-column",
+    "severity_level": "High",
+    "confidence_score": 0.9,
+    "reasoning_note": "Structural keyword detected, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Condition of leakage observed from overhead water tank",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Condition of leakage observed from overhead water tank",
+    "severity_level": "High",
+    "confidence_score": 0.9,
+    "reasoning_note": "Structural keyword detected, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Observed dampness at the skirting level",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Observed dampness at the skirting level",
+    "severity_level": "High",
+    "confidence_score": 0.8,
+    "reasoning_note": "Moisture-related issue, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Observed dampness at the skirting level",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Observed dampness at the skirting level",
+    "severity_level": "High",
+    "confidence_score": 0.8,
+    "reasoning_note": "Moisture-related issue, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Observed dampness at the skirting level",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Observed dampness at the skirting level",
+    "severity_level": "High",
+    "confidence_score": 0.8,
+    "reasoning_note": "Moisture-related issue, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Observed dampness at the skirting level",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Observed dampness at the skirting level",
+    "severity_level": "High",
+    "confidence_score": 0.8,
+    "reasoning_note": "Moisture-related issue, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Observed dampness & efflorescence on",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Observed dampness & efflorescence on",
+    "severity_level": "High",
+    "confidence_score": 0.8,
+    "reasoning_note": "Moisture-related issue, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Observed cracks on the External wall of building",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Observed cracks on the External wall of building",
+    "severity_level": "High",
+    "confidence_score": 0.9,
+    "reasoning_note": "Structural keyword detected, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Observed leakage at the Parking ceiling",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Observed leakage at the Parking ceiling",
+    "severity_level": "High",
+    "confidence_score": 0.9,
+    "reasoning_note": "Structural keyword detected, Thermal anomaly detected"
+  },
+  {
+    "area": "Not Available",
+    "inspection_issue": "Observed mild dampness at the ceiling of",
+    "thermal_finding": "Hotspot :",
+    "conflict": false,
+    "evidence": "Observed mild dampness at the ceiling of",
+    "severity_level": "High",
+    "confidence_score": 0.8,
+    "reasoning_note": "Moisture-related issue, Thermal anomaly detected"
+  }
+]

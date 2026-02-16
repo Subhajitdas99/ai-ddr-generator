@@ -1,0 +1,6 @@
+{
+  "hallucination": false,
+  "missing_rule_violation": false,
+  "conflict_ignored": false,
+  "notes": "Offline evaluation mode (LLM unavailable)"
+}

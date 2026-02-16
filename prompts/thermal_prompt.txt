@@ -1,0 +1,16 @@
+Extract thermal findings.
+
+Return JSON:
+
+[
+  {
+    "area": "",
+    "thermal_observation": "",
+    "temperature_note": "",
+    "risk_indicator": ""
+  }
+]
+
+Rules:
+- No assumptions
+- Use exact evidence
